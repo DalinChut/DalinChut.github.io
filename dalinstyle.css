@@ -1,0 +1,43 @@
+h1{
+    font-family: Arial, sans-serif;
+      border:2px solid black; 
+      background-color: silver; 
+}
+nav{
+    background-color:turquoise;
+    
+}
+
+img{
+    height:300px;
+    width: 300px;
+}
+
+#myId{
+    background-color:rgba(0, 128, 28, 0.582);
+    border: 2px solid black;
+    width: 200px;
+}
+
+#IDK{
+    background-color:purple;
+    border: 2px solid black;
+    width: 200px;
+}
+
+.KDI{
+    background-color:yellow; 
+}
+
+p {
+    padding-left:20px;
+} 
+
+h1{
+    margin:10px;
+}
+
+.floatedarticle {
+    float: left;
+    margin: 20px;
+}
